@@ -25,4 +25,4 @@ Enthusiast of AI and agents.
 
 - **Telegram** → [t.me/esteprime](https://t.me/esteprime)
 - **X (Twitter)** → [x.com/EstePrimeWorld](https://x.com/EstePrimeWorld)
-- **Osintly on X** → [x.com/EstePrimeWorld](https://x.com/Osintly)
+- **Osintly on X** → [x.com/Osintly](https://x.com/Osintly)
