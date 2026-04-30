@@ -10,7 +10,7 @@ I build with **Next.js**, and I'm always exploring new tools and frameworks push
 
 - [**Osintly**](https://osint.ly) — OSINT platform for researchers and analysts
 - [**Osintly Docs**](https://docs.osint.ly) — documentation and usage guides
-- [**EpicGames.tools**](https://epicgames.tools) — documentation and usage guides
+- [**EpicGames.tools**](https://epicgames.tools) — Epic Games player search
 - [**My Website**](https://esteprime.tech/) — personal website, nothing really interesting
 
 ---
